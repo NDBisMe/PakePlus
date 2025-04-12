@@ -1,0 +1,1 @@
+import{s as o}from"./user-CW08ZWUW.js";const t=e=>o({url:"/videoapi/addfavorites",method:"post",data:e}),s=e=>o({url:"/videoapi/delfavorites",method:"post",data:e}),a=e=>o({url:"/videoapi/queryfavorites",method:"post",data:e});export{t as a,s as d,a as q};
